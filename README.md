@@ -1,6 +1,6 @@
 <h1 align="center">Hallo 👋, I'm <a href="https://linkedin.com/in/rohit-s-693a9b201">Rohit</a></h1>
 
-<h2 align="center">working on dumb stuff</h2>
+<h3 align="center">working on dumb stuff</h3>
 
 
 - 🔭 I’m currently working on **AMRs**
