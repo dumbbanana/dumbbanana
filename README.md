@@ -1,5 +1,7 @@
-# Hallo 👋, I'm [Rohit](https://www.linkedin.com/in/rohit-s-693a9b201/)
-#### working on dumb stuff
+<h1 align="center">Hallo 👋, I'm <a href="https://linkedin.com/in/rohit-s-693a9b201">Rohit</a></h1>
+
+<h3 align="center">working on dumb stuff</h3>
+
 
 - 🔭 I’m currently working on **AMRs**
 
@@ -18,7 +20,7 @@
 <a href="https://linkedin.com/in/rohit-s-693a9b201" target="blank"><img src="./assert/linked-in-alt.svg" alt="rohit-s-693a9b201" height="30" width="30" /></a>
 
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="./assert/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="./assert/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
