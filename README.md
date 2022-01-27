@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **embedded systems, pneumatics, development boards and industrial automation**
 
-- 📫 How to reach me **rohitsarav14@gmail.com**
+- 📫 How to reach me **dumbbananaman@gmail.com**
 
 ### Connect with me:
 
