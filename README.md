@@ -32,4 +32,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assert/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="./assert/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.ni.com/en-in/shop/software/products/labview.html" target="_blank" rel="noreferrer"> <img src="./assert/labview.png" alt="labview" width="40" height="40"/> </a>
-<a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="./assert/abb-robotics.png" alt="robostudio" width="40" height="40"/> </a>
+<a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="./assert/robostudio.png" alt="robostudio" width="40" height="40"/> </a>
